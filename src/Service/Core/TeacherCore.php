@@ -24,6 +24,6 @@ class TeacherCore implements SchoolInterface
 
     public function msg(): string
     {
-        return 'Student created';
+        return 'Teacher created';
     }
 }

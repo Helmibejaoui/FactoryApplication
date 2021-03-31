@@ -20,6 +20,6 @@ class StudentCore implements SchoolInterface
 
     public function msg(): string
     {
-       return 'Student created';
+        return 'Student created';
     }
 }
